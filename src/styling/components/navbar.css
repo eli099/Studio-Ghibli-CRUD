@@ -1,0 +1,8 @@
+a.nav-link {
+  font-weight: none;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+/*# sourceMappingURL=navbar.css.map */

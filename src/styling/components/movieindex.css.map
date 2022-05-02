@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;CAMpB;;AARD,AAII,WAJO,CAGT,MAAM,CACJ,CAAC,CAAC;EACA,KAAK,EAAE,KAAc;CACtB",
+    "sources": [
+        "movieindex.scss"
+    ],
+    "names": [],
+    "file": "movieindex.css"
+}

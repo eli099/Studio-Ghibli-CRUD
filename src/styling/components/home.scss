@@ -1,0 +1,18 @@
+.hero {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  .hero-container {
+    // padding: 20px;
+  }
+  h1 {
+    border-radius: 2px;
+    text-transform: uppercase;
+  }
+  .text {
+    // margin: 20px;
+  }
+}
+
