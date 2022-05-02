@@ -33,8 +33,16 @@ img {
           flex-grow: 1;
 }
 
+.hero-c {
+  padding: 50px;
+}
+
 a.nav-link {
-  font-weight: bold;
+  font-weight: none;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
 }
 
 .hero {
@@ -68,9 +76,5 @@ a.nav-link {
 
 .movie-list .movie a {
   color: black;
-}
-
-.badge {
-  margin-right: 50px;
 }
 /*# sourceMappingURL=main.css.map */

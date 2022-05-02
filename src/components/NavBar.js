@@ -5,13 +5,14 @@ import Navbar from 'react-bootstrap/Navbar'
 import Container from 'react-bootstrap/Container'
 import Nav from 'react-bootstrap/Nav'
 
+
 // Link for React navigation
 import { Link } from 'react-router-dom'
 
 const NavBar = () => {
   return (
     <header>
-      <Navbar bg="info" variant="light" expand="sm">
+      <Navbar fixed="top" bg="info" variant="light" expand="sm">
         <Container>
           <Navbar.Brand as={Link} to="/"><img src="https://ghibliapi.herokuapp.com/images/logo.svg" width="100px" alt="Studio Ghibli"></img></Navbar.Brand>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
